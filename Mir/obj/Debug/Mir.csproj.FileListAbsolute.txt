@@ -1,0 +1,12 @@
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\bin\Debug\Mir.exe.config
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\bin\Debug\Mir.exe
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\bin\Debug\Mir.pdb
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.csproj.SuggestedBindingRedirects.cache
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.Mir.resources
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.Mirr.resources
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.exe
+C:\Users\Пользователь\Desktop\студенческие работы\901\4к\Mir\obj\Debug\Mir.pdb
